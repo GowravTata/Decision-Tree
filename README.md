@@ -1,1 +1,1 @@
-This repository delas with the application of Decision Tree and the pre DATA CLEANING to be done
+This repository deals about the application of Machine Learning and Applying of algorithms 
